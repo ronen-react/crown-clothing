@@ -7,3 +7,7 @@ yarn add node-sass // npm install node-sass. Similar to css but has advantages. 
 
 npm install react-router-dom
 
+
+
+sudo npm install firebase
+enable google sign in inside firebase->authentication->setup sign in method -> Enable Google
