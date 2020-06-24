@@ -46,7 +46,7 @@ class SignIn extends React.Component {
 						name="password"
 						type="password"
 						handleChange={this.handleChange}
-						value={this.state.passsword}
+						value={this.state.password}
 						label="password"
 						required
 					/>
